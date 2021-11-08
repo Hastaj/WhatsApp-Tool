@@ -20,11 +20,11 @@ pkg install python
 
 pkg install git
 
-git clone 
+git clone https://github.com/Hastaj/WhatsApp-Tool
 
 cd WhatsApp-Tool
 
-python zapp.py
+python Zapp.py
 
 ATTENTION :
 
