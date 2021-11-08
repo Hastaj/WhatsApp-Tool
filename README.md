@@ -6,7 +6,11 @@ Cet outil est le seul prennant en compte les dernières mises à jour de WhatsAp
 FONCTIONNALITÉS :
 
 [+] Faire bannir un compte WhatsApp
+
+
 [+] Auto administration de groupe WhatsApp à partis du compte de l'administrateur principal
+
+
 [+] Quelques bombers WhatsApp (virus)
 
 USAGE:
