@@ -5,6 +5,7 @@ Cet outil est le seul prennant en compte les dernières mises à jour de WhatsAp
 
 FONCTIONNALITÉS :
 
+
 [+] Faire bannir un compte WhatsApp
 
 
@@ -16,9 +17,13 @@ FONCTIONNALITÉS :
 USAGE:
 
 pkg install python
+
 pkg install git
+
 git clone 
+
 cd WhatsApp-Tool
+
 python zapp.py
 
 ATTENTION :
