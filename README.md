@@ -26,3 +26,5 @@ ATTENTION :
 Après que vous ayez entré la dernière commande, un mot de passe vous sera demandé. Contactez moi sur WhatsApp au numéro +237 679112104
 Ou via le lien https://wa.me/237679112104 
 Dans votre message insérez une screenshot où je pourrais vérifier que le mot de psse vous a effectivement été demandé. 
+
+Good use
